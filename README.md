@@ -4,7 +4,7 @@
 
 ![](email-preview-transactional.jpeg)
 
-- Live Site URL: [Add live site URL here](https://ryoshi1001.github.io/Clothes-Store-Transactional-Email/)
+- Live Site URL: [https://ryoshi1001.github.io/Clothes-Store-Transactional-Email/]
 
 Built with:
 - HTML5 
