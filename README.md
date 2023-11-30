@@ -1,6 +1,6 @@
 # Clothes-Store-Transactional-Email
-Custom hand-coded HTML inline CSS Transactional Email.<br>
-Custom unbranded created all content, layout, logo, and idea.<br>  
+- Custom hand-coded HTML inline CSS Transactional Email.<br>
+- Custom unbranded created all content, layout, logo, and idea.<br>  
 
 ![](email-preview-transactional.jpeg)
 
@@ -19,9 +19,9 @@ The designs were created to the following widths:
 - Max-width: 600px
   
 ## Colors
-Very light Gray: #eeeeed
-Black: #1d1d1d #000000
-Red: #ff0000
+- Very light Gray: #eeeeed
+- Black: #1d1d1d #000000
+- Red: #ff0000
 
 ## Typography
 - Family: [Roboto]([https://fonts.google.com/specimen/Be+Vietnam+Pro](https://fonts.google.com/specimen/Roboto))
